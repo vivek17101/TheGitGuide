@@ -35,6 +35,8 @@ def calculator():
             print(f"Result: {divide(num1, num2)}")
     else:
         print("Invalid input")
+        print("done")
+        
 
 if __name__ == "__main__":
     calculator()
